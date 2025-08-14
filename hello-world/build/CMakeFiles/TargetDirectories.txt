@@ -1,0 +1,4 @@
+/home/maximator16/workspace/github.com/mdombrov-33/exercism/cpp/hello-world/build/CMakeFiles/hello-world.dir
+/home/maximator16/workspace/github.com/mdombrov-33/exercism/cpp/hello-world/build/CMakeFiles/test_hello-world.dir
+/home/maximator16/workspace/github.com/mdombrov-33/exercism/cpp/hello-world/build/CMakeFiles/edit_cache.dir
+/home/maximator16/workspace/github.com/mdombrov-33/exercism/cpp/hello-world/build/CMakeFiles/rebuild_cache.dir
